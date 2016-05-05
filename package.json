@@ -1,6 +1,6 @@
 {
   "name": "nef-mongo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "MongoDB plugin for nef",
   "repository": "CreaturePhil/nef-mongo",
   "main": "index.js",
