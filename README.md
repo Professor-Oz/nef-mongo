@@ -1,10 +1,10 @@
-# nef
+# nef-mongo
 
 [![build status](https://img.shields.io/travis/CreaturePhil/nef-mongo/master.svg?style=flat-square)](https://travis-ci.org/CreaturePhil/nef-mongo)
 [![Dependency Status](https://david-dm.org/CreaturePhil/nef-mongo.svg?style=flat-square)](https://david-dm.org/CreaturePhil/nef-mongo)
 [![devDependency Status](https://david-dm.org/CreaturePhil/nef-mongo/dev-status.svg?style=flat-square)](https://david-dm.org/CreaturePhil/nef-mongo#info=devDependencies)
 
-MongoDB plugin for nef
+MongoDB plugin for [nef](https://github.com/CreaturePhil/nef)
 
 ## Install
 
