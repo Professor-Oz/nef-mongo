@@ -1,0 +1,29 @@
+{
+  "name": "nef-mongo",
+  "version": "1.0.0",
+  "description": "MongoDB plugin for nef",
+  "repository": "CreaturePhil/nef-mongo",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint . && tape test/index.js"
+  },
+  "keywords": [
+    "mongodb",
+    "mongo",
+    "nef",
+    "plugin",
+    "database"
+  ],
+  "author": "Philip La <birkal@outlook.com>",
+  "license": "MIT",
+  "dependencies": {
+    "deasync": "^0.1.6",
+    "json-parse-helpfulerror": "^1.0.3",
+    "mongodb": "^2.1.18"
+  },
+  "devDependencies": {
+    "eslint": "^2.9.0",
+    "nef": "^1.0.3",
+    "tape": "^4.5.1"
+  }
+}
