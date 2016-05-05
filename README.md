@@ -31,7 +31,7 @@ db.posts.set('posts', [
 
 In MongoDB:
 
-```json
+```js
 {
 	"_id" : ObjectId("567e4741b09bffce48aa98b1"),
 	"name" : "money",
